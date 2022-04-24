@@ -1,1 +1,0 @@
-### This is a custom theme for VS-Code
