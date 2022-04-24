@@ -3,6 +3,19 @@
     "displayName": "prince-dev-theme",
     "description": "prince-dev-theme",
     "version": "0.0.1",
+    "publisher": "prince-dev-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/princephpdev/prince-theme"
+    },
+    "keywords": [
+        "themes",
+        "dark theme",
+        "prince kesharavani",
+        "prince k theme",
+        "prince dev theme",
+        "prince theme"
+    ],
     "engines": {
         "vscode": "^1.66.0"
     },
